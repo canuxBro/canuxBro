@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canuxBro
 - 👀 I’m interested in programin
-- 🌱 I’m currently learning python
--🇱🇰I’m from sri lanka
+- 🌱 I’m currently learning python & pascal
+- 🇱🇰 I’m from sri lanka
 - 📫 don't reach me 
 - 🙌 learning ...
 <!---
